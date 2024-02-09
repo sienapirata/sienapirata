@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sanità &#8211; Siena Pirata</title>
+	<atom:link href="https://www.sienapirata.it/tag/sanita/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.sienapirata.it/</link>
+	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
+	<lastBuildDate>Fri, 09 Feb 2024 12:44:13 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>COMUNICATO PIRATA &#8211; Quando la sanità non riesce a proteggere i dati personali dei cittadini</title>
+		<link>https://www.sienapirata.it/2024/02/comunicato-pirata-quando-la-sanita-non-riesce-a-proteggere-i-dati-personali-dei-cittadini/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2024 11:21:19 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[Cybersecurity e diritti digitali]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[protezione dei dati personali]]></category>
+		<category><![CDATA[sanità]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=71</guid>
+
+					<description><![CDATA[Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie pubbliche italiane.</strong> Stando all’articolo pubblicato da Guerre di Rete[1], newsletter italiana in ambito sicurezza informatica, “<em>solo <strong>negli ultimi due mesi del 2023 sono stati diffusi oltre 1,5 terabyte di dati sanitari</strong> (circa due milioni di file) sottratti a diverse strutture del nostro Paese</em>”.</p>
+
+
+
+<p>Parliamo di “<em><strong>cartelle cliniche, fotografie di pazienti affetti da tumori cutanei, referti di abusi sessuali, esami per le malattie ereditarie</strong>, liste dei vaccinati al Covid-19</em>”. Alcuni file contengono anche i riferimenti precisi del paziente, come nome, cognome e data di nascita. Anche “<em><strong>di persone che sono state assistite dai centri di salute mentale, o dai servizi per le dipendenze patologiche</strong></em>”.</p>
+
+
+
+<p>Un vero e proprio disastro di cui i cittadini sembrano non essere pienamente consapevoli e di cui la stessa classe politica sembra faticare a comprenderne l’impatto e le conseguenze.</p>
+
+
+
+<p>Da più voci sono arrivati allarmi a tal proposito: <strong>la Pubblica Amministrazione italiana sembra avere grosse criticità in termini di risorse da dedicare alla sicurezza informatica</strong>, sia sotto il profilo delle competenze che del personale da dedicarvi.</p>
+
+
+
+<p>Come spiega a Guerre di Rete Gianluca Galasso, capo del servizio operazioni dell’<a href="https://www.acn.gov.it/" data-type="link" data-id="https://www.acn.gov.it/">Agenzia Cybersicurezza Nazionale</a> (il grassetto è nostro): “<strong>I<em> cybercriminali fanno leva in primis sull’urgenza di riattivare i servizi erogati dalle strutture sanitarie</em></strong><em>, particolarmente critici. Una loro interruzione, anche solo per brevissimo tempo, causa impatti gravissimi sulla salute dei cittadini</em>” [&#8230;] puntando “<em>sul grave danno, non solo reputazionale, che deriverebbe dalla pubblicazione dei dati che trattano, tra i più delicati in assoluto</em>”.  </p>
+
+
+
+<p>Sempre Galasso sottolinea come “<em><strong>Gli attaccanti sfruttano le fragilità dei sistemi</strong> per eseguire attacchi che si sviluppano in tempi anche piuttosto rapidi. Ciò accade perché <strong>le infrastrutture informatiche del settore sanitario presentano diffuse criticità di natura sia tecnica sia organizzativa</strong>, che le rendono intrinsecamente deboli.”.</em></p>
+
+
+
+<p>Per finire, Galasso precisa, in merito agli attacchi, che a “<em>queste mancanze di natura tecnico-procedurale si affiancano, spesso, <strong>lacune di tipo organizzativo che impediscono lo sviluppo di un percorso finalizzato al continuo innalzamento della protezione dei sistemi</strong>. Mi riferisco, in particolare, a una <strong>carenza nella governance</strong>, che ponga la dovuta attenzione alla sicurezza dei sistemi, a una e<strong>ccessiva frammentazione nell’utilizzo di tecnologie e fornitori di servizi di sicurezza</strong>, che spesso genera aree di sovrapposizione lasciandone altre scoperte, e a una <strong>cronica carenza di personale specializzato esperto</strong>”</em>. </p>
+
+
+
+<p>Non c&#8217;è molto altro da aggiungere, se non stimolare i Dirigenti e la classe Politica ad attivarsi in questo senso, investendo prima di tutto nelle competenze, attraverso la formazione e il personale specializzato.</p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><em>Siena Pirata</em></p>
+
+
+
+<p>[1] <a href="https://www.guerredirete.it/i-dati-sanitari-di-migliaia-di-italiani-sono-ormai-online/" target="_blank" rel="noreferrer noopener">https://www.guerredirete.it/i-dati-sanitari-di-migliaia-di-italiani-sono-ormai-online/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
