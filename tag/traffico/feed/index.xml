@@ -12,7 +12,7 @@
 	<atom:link href="https://www.sienapirata.it/tag/traffico/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.sienapirata.it/</link>
 	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
-	<lastBuildDate>Thu, 25 Jan 2024 13:08:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Feb 2024 17:50:49 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,6 +26,7 @@
 		<dc:creator><![CDATA[sienapirata]]></dc:creator>
 		<pubDate>Wed, 24 Jan 2024 13:53:36 +0000</pubDate>
 				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[Territorio]]></category>
 		<category><![CDATA[limite di velocità]]></category>
 		<category><![CDATA[siena]]></category>
 		<category><![CDATA[traffico]]></category>
