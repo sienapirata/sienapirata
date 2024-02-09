@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Siena Pirata</title>
+	<atom:link href="https://www.sienapirata.it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.sienapirata.it/</link>
+	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
+	<lastBuildDate>Fri, 09 Feb 2024 12:44:13 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>COMUNICATO PIRATA &#8211; Quando la sanità non riesce a proteggere i dati personali dei cittadini</title>
+		<link>https://www.sienapirata.it/2024/02/comunicato-pirata-quando-la-sanita-non-riesce-a-proteggere-i-dati-personali-dei-cittadini/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2024 11:21:19 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[Cybersecurity e diritti digitali]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[protezione dei dati personali]]></category>
+		<category><![CDATA[sanità]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=71</guid>
+
+					<description><![CDATA[Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie pubbliche italiane.</strong> Stando all’articolo pubblicato da Guerre di Rete[1], newsletter italiana in ambito sicurezza informatica, “<em>solo <strong>negli ultimi due mesi del 2023 sono stati diffusi oltre 1,5 terabyte di dati sanitari</strong> (circa due milioni di file) sottratti a diverse strutture del nostro Paese</em>”.</p>
+
+
+
+<p>Parliamo di “<em><strong>cartelle cliniche, fotografie di pazienti affetti da tumori cutanei, referti di abusi sessuali, esami per le malattie ereditarie</strong>, liste dei vaccinati al Covid-19</em>”. Alcuni file contengono anche i riferimenti precisi del paziente, come nome, cognome e data di nascita. Anche “<em><strong>di persone che sono state assistite dai centri di salute mentale, o dai servizi per le dipendenze patologiche</strong></em>”.</p>
+
+
+
+<p>Un vero e proprio disastro di cui i cittadini sembrano non essere pienamente consapevoli e di cui la stessa classe politica sembra faticare a comprenderne l’impatto e le conseguenze.</p>
+
+
+
+<p>Da più voci sono arrivati allarmi a tal proposito: <strong>la Pubblica Amministrazione italiana sembra avere grosse criticità in termini di risorse da dedicare alla sicurezza informatica</strong>, sia sotto il profilo delle competenze che del personale da dedicarvi.</p>
+
+
+
+<p>Come spiega a Guerre di Rete Gianluca Galasso, capo del servizio operazioni dell’<a href="https://www.acn.gov.it/" data-type="link" data-id="https://www.acn.gov.it/">Agenzia Cybersicurezza Nazionale</a> (il grassetto è nostro): “<strong>I<em> cybercriminali fanno leva in primis sull’urgenza di riattivare i servizi erogati dalle strutture sanitarie</em></strong><em>, particolarmente critici. Una loro interruzione, anche solo per brevissimo tempo, causa impatti gravissimi sulla salute dei cittadini</em>” [&#8230;] puntando “<em>sul grave danno, non solo reputazionale, che deriverebbe dalla pubblicazione dei dati che trattano, tra i più delicati in assoluto</em>”.  </p>
+
+
+
+<p>Sempre Galasso sottolinea come “<em><strong>Gli attaccanti sfruttano le fragilità dei sistemi</strong> per eseguire attacchi che si sviluppano in tempi anche piuttosto rapidi. Ciò accade perché <strong>le infrastrutture informatiche del settore sanitario presentano diffuse criticità di natura sia tecnica sia organizzativa</strong>, che le rendono intrinsecamente deboli.”.</em></p>
+
+
+
+<p>Per finire, Galasso precisa, in merito agli attacchi, che a “<em>queste mancanze di natura tecnico-procedurale si affiancano, spesso, <strong>lacune di tipo organizzativo che impediscono lo sviluppo di un percorso finalizzato al continuo innalzamento della protezione dei sistemi</strong>. Mi riferisco, in particolare, a una <strong>carenza nella governance</strong>, che ponga la dovuta attenzione alla sicurezza dei sistemi, a una e<strong>ccessiva frammentazione nell’utilizzo di tecnologie e fornitori di servizi di sicurezza</strong>, che spesso genera aree di sovrapposizione lasciandone altre scoperte, e a una <strong>cronica carenza di personale specializzato esperto</strong>”</em>. </p>
+
+
+
+<p>Non c&#8217;è molto altro da aggiungere, se non stimolare i Dirigenti e la classe Politica ad attivarsi in questo senso, investendo prima di tutto nelle competenze, attraverso la formazione e il personale specializzato.</p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><em>Siena Pirata</em></p>
+
+
+
+<p>[1] <a href="https://www.guerredirete.it/i-dati-sanitari-di-migliaia-di-italiani-sono-ormai-online/" target="_blank" rel="noreferrer noopener">https://www.guerredirete.it/i-dati-sanitari-di-migliaia-di-italiani-sono-ormai-online/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA &#8211; Limiti di velocità o strade da rifare?</title>
+		<link>https://www.sienapirata.it/2024/01/comunicato-pirata-limiti-di-velocita-o-strade-da-rifare/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Wed, 24 Jan 2024 13:53:36 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[limite di velocità]]></category>
+		<category><![CDATA[siena]]></category>
+		<category><![CDATA[traffico]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=62</guid>
+
+					<description><![CDATA[Il dibattito sui limiti di velocità nelle aree urbane (ma vale anche per molte strade extraurbane) è l’occasione per riflettere&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Il dibattito sui limiti di velocità nelle aree urbane (ma vale anche per molte strade extraurbane) è l’occasione per <strong>riflettere sulla condizione delle nostre strade</strong>. E<br>Del resto, <strong>Siena è una città medievale e quindi ci piace far ricordare ai turisti come le carrozze “ballavano” sulle strade di acciottolato.</strong> Pensavamo fosse un modo carino per permettere ai turisti di immergersi nella nostra storia, fino a quando uno di loro non c’ha distrutto la macchina e non l’ha presa bene[1].</p>
+
+
+
+<p><strong>Ironia a parte, la situazione del manto stradale di molte strade del senese è disastrosa: piene di buche, sconnesse, strette e pericolose.</strong> Strade su cui si pretenderebbe pure di sviluppare il cicloturismo e la mobilità dolce, quando a malapena riescono a scambiarsi due auto. A cui si aggiunge una terribile assenza di corsie preferenziali per i mezzi del servizio pubblico che, quindi, per i lunghi tempi di percorrenza non risultano appetibili come alternativa all’auto privata.</p>
+
+
+
+<p><strong>Non serve, a nostro parere, mettere il limite a 30km/h o vessare gli automobilisti con autovelox, T-Red o altre diavolerie per far cassa.</strong> Crediamo sia più utile che le Amministrazioni si impegnino sia nel rifacimento dei manti stradali rovinati &#8211;<em>che sono pericolosi sia per le auto che per i mezzi a due ruote</em>&#8211; che nella creazione di percorsi ciclopedonali sicuri sui quali far transitare la mobilità dolce, così da offrire alternative sicure.</p>
+
+
+
+<p>Serve anche <strong>pianificare aree di attracco periferiche da dove, attraverso i mezzi pubblici, raggiungere comodamente e velocemente il centro cittadino</strong> senza contribuire al traffico delle insufficienti arterie stradali: il PUMS[2] prevede delle aree di sosta, alcune realizzate ma altre no, a cui deve essere affiancata un adeguato servizio di trasporto (compreso il bike sharing).</p>
+
+
+
+<p>E’ incredibile come a Siena, una città piccola attraversabile in meno di mezz’ora a piedi, <strong>non sia mai stata pensata una circonvallazione adeguata</strong> e che una delle tratte che sarebbero più importanti, il cosiddetto “lotto 0” tra Ruffolo e Cerchiaia, sia ben lontano da un decoroso raddoppio.</p>
+
+
+
+<p>Va bene che il Centro storico di Siena, patrimonio UNESCO, offra un&#8217;atmosfera medievale. <em>Ma le periferie, con i palazzoni anni ‘60 e ‘70 e le aree commerciali, vogliamo provare a renderle quantomeno adeguate ai tempi moderni?</em></p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><em><strong>Siena Pirata</strong></em></p>
+
+
+
+<p>[1] <a href="https://sienanews.it/toscana/siena/la-lettera-di-un-turista-siena-citta-delle-buche-stradali-mi-hanno-rovinato-la-macchina-e-la-vacanza/">https://sienanews.it/toscana/siena/la-lettera-di-un-turista-siena-citta-delle-buche-stradali-mi-hanno-rovinato-la-macchina-e-la-vacanza/</a></p>
+
+
+
+<p>[2] <a href="https://www.comune.siena.it/node/3651">https://www.comune.siena.it/node/3651</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA &#8211; Pensavamo fosse uno scherzo e invece&#8230;</title>
+		<link>https://www.sienapirata.it/2024/01/comunicato-pirata-pensavamo-fosse-uno-scherzo-e-invece/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 07:07:49 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[bolzano]]></category>
+		<category><![CDATA[cacca]]></category>
+		<category><![CDATA[deiezioni canine]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[profilazione genetica]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=58</guid>
+
+					<description><![CDATA[Pensavamo fosse uno scherzo ma invece no, è tutto vero. E, a quanto pare da alcune veloci ricerche in Rete,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Pensavamo fosse uno scherzo ma invece no, è tutto vero. E, a quanto pare da alcune veloci ricerche in Rete, neanche il primo provvedimento di questo tipo in Italia[1]: <strong>la Provincia di Bolzano ha avviato un progetto di profilazione genetica canina</strong>[2] per mappare il codice genetico di tutti i 4 zampe della provincia, al modico costo di 65 euro “<em>compresi gli oneri per le analisi di laboratorio, e dovrà essere pagato dal proprietario del cane dopo aver ricevuto la fattura dell&#8217;Azienda Sanitaria dell&#8217;Alto Adige.</em>“.</p>
+
+
+
+<p>Scopo dell’iniziativa? A quanto dichiara il comunicato stampa ufficiale, “<em>il database non verrà utilizzato solo per le deiezioni lasciate in strada, ma per identificare anche l&#8217;animale in caso di incidenti stradali o morsi.”.</em></p>
+
+
+
+<p><strong>In tutta sincerità, non sappiamo se ridere o se piangerci su</strong> e ci chiediamo come sia possibile pensare a misure del genere per punire quei padroni che lasciano le cacche del proprio cane sul marciapiede. Comportamenti da condannare, sicuramente, ma davvero meritano la mappatura genetica &#8211;<em>a caro prezzo, per i proprietari ma anche per tutti i cittadini</em>&#8211; di tutti i 4 zampe della Provincia? A cui si aggiunge il fatto che eventuali animali non censiti, come per esempio quelli dei turisti o randagi , non sarebbero individuati, rendendo vana la caccia al padrone incivile. Caccia che, come già accennato, comporta ovviamente anche l’analisi genetica degli escrementi abbandonati sul suolo pubblico, con conseguenti costi che immaginiamo essere a carico della collettività e che solo in seguito all’individuazione del responsabile e la conseguente sanzione sarebbero recuperati.</p>
+
+
+
+<p>Ridendoci su, potrebbe essere l’avvincente trama del “<em>Alla ricerca del padrone della cacca abbandonata</em>” ma <strong>per il momento ci accontentiamo delle pagine che alcune testate internazionali, come il Guardian inglese[3], hanno riservato alla bislacca iniziativa.</strong></p>
+
+
+
+<p>Ironia a parte, però, <strong>è la parte conclusiva del comunicato stampa ufficiale a preoccuparci,</strong> quando viene sottolineato che &#8220;<em>diverse Regioni italiane hanno mostrato particolare interesse per questa iniziativa. Anche il Ministero sta portando avanti il dispositivo di legge</em>&#8220;: qualcuno davvero pensa che il nostro Paese si meriti tutto questo?</p>
+
+
+
+<p>In ogni caso, anche se il buon De Andrè cantava<em> “Dai diamanti non nasce niente, dal letame nascono i fior”,</em> <strong>raccogliete sempre la cacca del vostro cane</strong>: non vorremmo certo che qualche amministratore volesse ispirarsi alle strampalate iniziative della Provincia di Bolzano!</p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><strong><em>Siena Pirata</em></strong></p>
+
+
+
+<p>[1] <a href="https://milano.corriere.it/notizie/cronaca/18_agosto_08/malnate-escrementi-cani-non-raccolti-padroni-incastrati-dna-a7705462-9b24-11e8-935d-1b6371349412.shtml">https://milano.corriere.it/notizie/cronaca/18_agosto_08/malnate-escrementi-cani-non-raccolti-padroni-incastrati-dna-a7705462-9b24-11e8-935d-1b6371349412.shtml</a></p>
+
+
+
+<p>[2] <a href="https://news.provincia.bz.it/it/news/profilazione-genetica-canina-a-fine-mese-implementazione-del-servizio">https://news.provincia.bz.it/it/news/profilazione-genetica-canina-a-fine-mese-implementazione-del-servizio</a></p>
+
+
+
+<p>[2] <a href="https://www.theguardian.com/world/2024/jan/17/italian-province-orders-all-dogs-to-be-dna-tested-in-poo-crackdown">https://www.theguardian.com/world/2024/jan/17/italian-province-orders-all-dogs-to-be-dna-tested-in-poo-crackdown</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA &#8211; Senza lilleri un si lallera!</title>
+		<link>https://www.sienapirata.it/2024/01/comunicato-pirata-senza-lilleri-un-si-lallera/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Sat, 13 Jan 2024 19:53:32 +0000</pubDate>
+				<category><![CDATA[Varie]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=22</guid>
+
+					<description><![CDATA[Siena non è una città abituata a fare i conti con la povertà. O, meglio, non lo era. Le notizie&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Siena non è una città abituata a fare i conti con la povertà.</strong> O, meglio, non lo era. Le notizie che arrivano dalla Stampa cittadina, per ultimo il flop dei saldi di inizio anno e le preoccupazioni, comprensibili, dei commercianti fanno da eco alle proteste di molte categorie di lavoratori che hanno visto il loro salario, già tra i più bassi di tutta l’Europa, eroso ulteriormente a causa dell’inflazione.</p>
+
+
+
+<p>E’ chiaro che <strong>con sempre meno disponibilità economica ed aumento dei costi indispensabili, come energia elettrica, acqua (a proposito, Siena è in vetta per il costo dell’acqua potabile!), gas… le famiglie avranno sempre meno disponibilità</strong> per ciò che è rimandabile, come l’abbigliamento e altri beni non necessari.&nbsp;</p>
+
+
+
+<p><strong>Le conseguenze di questo impoverimento diffuso della città</strong>, che va di pari passo con l’impoverimento di tutta la nazione, stanno stravolgendo anche l’immagine stessa di Siena, con una necessaria metamorfosi anche del settore commerciale, che nella nostra città non ha mai brillato per particolare offerta.</p>
+
+
+
+<p><strong>I commercianti, così come tutte le altre categorie di lavoratori, dovrebbero chiedere a gran voce al Governo l’istituzione di meccanismi di adeguamento salariale</strong> di pari passo con l’inflazione, condizione necessaria per non erodere il potere di spesa delle famiglie e garantire la sopravvivenza anche dei negozi cittadini.</p>
+
+
+
+<p>Siena Pirata, aderente all’associazione Pirati e al progetto europeo del Partito Pirata, aveva supportato e ancora crede nella validità dell’UBI &#8211;<em>Universal Basic Income</em>-, una forma di salario universale necessario a stabilire una soglia minima di reddito per tutti, da sostituirsi a quella giungla di sussidi che sono -è evidente!- incapaci di garantire una esistenza dignitosa.</p>
+
+
+
+<p>Del resto, anche a Siena lo sappiamo bene: “<em>senza lilleri, un si lallera!</em>”.</p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><strong><em>Siena Pirata</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA &#8211; Arezzo verso il milione, Siena polemizza per le luci</title>
+		<link>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2023 07:52:45 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[arezzo]]></category>
+		<category><![CDATA[natale]]></category>
+		<category><![CDATA[siena]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=24</guid>
+
+					<description><![CDATA[Il successo delle iniziative messe in campo dal Comune di Arezzo, “Città del Natale”, è certificato direttamente dai numeri: oltre&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Il successo delle iniziative messe in campo dal Comune di Arezzo, “Città del Natale”, è certificato direttamente dai numeri: <strong>oltre un milione di presenze, con weekend da 40-50mila visitatori dove il mercatino in Piazza Grande è solo uno dei tanti punti di attrazione</strong> messi in campo dall’Amministrazione aretina, tra mostre, la Fortezza trasformata in “cittadella di Babbo Natale” e le luminarie sul grande parco davanti alla cattedrale. Chiaramente con gli esercizi commerciali aperti e ben felici di accogliere questa gran massa di visitatori pronta a spendere.</p>
+
+
+
+<p><strong>A neanche 100 km, Siena, le poche e insipide iniziative messe in campo dal Comune, come il breve e molto costoso mercatino in Piazza del Campo e lo spettacolo di luci sul Palazzo Pubblico, riescono solo ad attrarre le polemiche di una città che sembra ormai incapace di rimboccarsi le maniche e provare a uscire dal pantano di mediocrità dove è scivolata.</strong></p>
+
+
+
+<p>Anche se gli ultimi fine settimana, complice un clima non troppo severo, hanno visto il tutto esaurito, la scarsità di eventi ci porta più a immaginare Siena una bella “natura morta”, da vedere come si guarda un bel quadro, due foto e poi via, verso lidi più vivaci.</p>
+
+
+
+<p><strong>Qualcuno chiamava Siena “<em>la città della muffa</em>”, a sottolineare l’immagine di vecchio e stantio che vi aleggia da molto tempo ma, a giudicare dalle ultime puerili polemiche </strong>-pompate da una certa stampa cittadina?- forse sarebbe meglio ribattezzarla “<em>città della polemica</em>” e dell’incapacità di innovare, troppo concentrata -secondo noi, ovvio!- a mantenere le rendite di posizione, sempre meno e sempre meno forti.</p>
+
+
+
+<p><strong>Quale futuro immaginiamo per una città che non riesce ad uscire da una autoreferenzialità fuori dal tempo, che costringe i giovani ad andarsene e gli unici successi che riesce ormai a conquistare sono quelli negativi, come il costo al mq dell’acqua potabile e della vita?</strong></p>
+
+
+
+<p>Eppure, a ben vedere, non abbiamo niente da invidiare ad Arezzo: una bella -ed inutilizzata- Fortezza Medicea, con i bastioni abbandonati al tempo, e svariati grandi parchi tutt’intorno, adiacenti al centro storico e perfetti per realizzare iniziative di attrattività di più ampio respiro.&nbsp;</p>
+
+
+
+<p>Che sugli scranno ci sia una Amministrazione di destra o di sinistra, lasciatecelo dire, sembra che per la città cambi ben poco. Che forse il problema non sia in ciò che è dentro Palazzo Comunale, espressione dei cittadini, ma di tutto ciò che vive intorno?</p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><em><strong>Siena Pirata</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA &#8211; Aeroporto di Ampugnano: ancora?</title>
+		<link>https://www.sienapirata.it/2023/11/comunicato-pirata-aeroporto-di-ampugnano-ancora/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Sun, 05 Nov 2023 08:05:01 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[aeroporto]]></category>
+		<category><![CDATA[ampugnano]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=28</guid>
+
+					<description><![CDATA[Pare surreale ma, forse per distrarre il popolino dal freddo inverno (non solo come temperature) che ci aspetta, il dibattito&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Pare surreale ma, forse per distrarre il popolino dal freddo inverno (non solo come temperature) che ci aspetta, il dibattito cittadino è nuovamente virato sull’Aeroporto di Ampugnano, con proposte sul suo “rilancio” con annesso immancabile piatto di milioni pronti a essere investiti.</p>
+
+
+
+<p>Investiti, dove? In una infrastruttura costruita negli anni ‘20 del secolo scorso, in mezzo alla Piana di Rosia, collegato al resto del mondo civilizzato da una stradina a singola corsia tra i campi. Che sbuca su una provinciale stretta e inadeguata ai volumi di traffico quotidiani e che certo non ha bisogno di ulteriore appesantimento?</p>
+
+
+
+<p>Crediamo che gli abitanti del Comune di Sovicille non hanno bisogno di un aeroporto, anche solo per pochi benestanti privati. Soprattutto se consideriamo quale ne sarebbe il costo, non solo economico, per un territorio che ha fatto dell’ambiente, dello slow food e del ben vivere uno dei suoi principali volumi economici.</p>
+
+
+
+<p>Diciamocela tutta, a Sovicille manca ben altro che un Aeroporto. <strong>Manca, ad esempio, un bel centro sportivo polifunzionale a beneficio dei cittadini,</strong> che vede proprio Ampugnano baricentrico rispetto ai tre principali centri abitati del Comune. <strong>Manca, per citarne una grave mancanza infrastrutturale, la fibra per connessioni Internet veloci e adeguate ai nostri tempi, </strong>dove tutto ormai avviene online. <strong>Manca un piano di sviluppo sostenibile e adeguato a investire il declino demografico</strong> che nelle nostre zone, forse più che altrove, rischia di causare enormi problemi sociali.&nbsp;</p>
+
+
+
+<p>Insomma, a Sovicille mancano molte cose sulle quali sarebbe bene instaurare un bel dibattito pubblico. Ma certo, e questo crediamo di poterlo sottolineare, non un aeroporto per pochi a beneficio di pochi per il quale, già a suo tempo, gli abitanti dissero forte e chiaro NO.&nbsp;</p>
+
+
+
+<p><em><strong>Siena Pirata</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA -La lotteria dei diritti</title>
+		<link>https://www.sienapirata.it/2023/10/comunicato-pirata-la-lotteria-dei-diritti/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2023 08:06:16 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[bonus trasporti]]></category>
+		<category><![CDATA[governo]]></category>
+		<category><![CDATA[ministero]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=30</guid>
+
+					<description><![CDATA[Bonus, bonus, bonus! La “lotteria dei diritti” sembra non conoscere fine in questo Paese allo sbando, tra ristrettezze economiche e&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Bonus, bonus, bonus! </strong>La “lotteria dei diritti” sembra non conoscere fine in questo Paese allo sbando, tra ristrettezze economiche e palesi incapacità governative ormai sotto gli occhi di tutti, almeno di chi vuole vedere.</p>
+
+
+
+<p>L’ultima tendenza, sdoganata già da qualche anno, sono i bonus. Una vera e propria <em>gamification</em> dei diritti, a uso esclusivo di una squallida propaganda politica che vede i cittadini diventare giocatori su improbabili piattaforme tra click-day e code di attesa.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img decoding="async" src="https://lh7-us.googleusercontent.com/eR7wM39BcTmltmSWJsTnicbUdLli8HgAHquPahY1OLGupLVd6FnogfsorX4JhJKh2mTJ1m8-AJxvhupfqO7UbsqLcazmwjlwqvKgcgiJp37a1pi9I3gmQ0jd5O0NEnjeVzhDvbkfkgO5kSlWwJjRMgQ" alt=""/></figure></div>
+
+
+<p>L’ultima, ma solo in ordine temporale, è stata la lotteria del Bonus Trasporti. Dove i pochi fondi stanziati sono esauriti in poche ore costringendo i cittadini a restare in coda, e già solo questo basta a farci ridere a crepapelle, sul portale ministeriale nella speranza di raccogliere una briciola di contributo. Briciola che, in questi tempi magri, può fare la differenza.</p>
+
+
+
+<p><strong>Lo squallore di questi tempi, dove anche il diritto al trasporto pubblico diventa oggetto di propaganda politica.</strong></p>
+
+
+
+<p><em>Quanto manca al Bonus Pronto Soccorso? O al Bonus Ambulanza? E il Bonus Aria Pulita? Il Bonus Acqua Potabile? </em>Perché se tutto diventa un gioco, compreso il diritto di potersi permettere di usufruire del trasporto pubblico, allora ci prendiamo la libertà di giocarci su anche noi.</p>
+
+
+
+<p><em><strong>Siena Pirata</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>COMUNICATO PIRATA &#8211; Se la guerra…</title>
+		<link>https://www.sienapirata.it/2022/10/comunicato-pirata-se-la-guerra/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 08:08:00 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[guerra]]></category>
+		<category><![CDATA[ucraina]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=32</guid>
+
+					<description><![CDATA[La guerra ce la stiamo portando in casa. Con la complicità (o incapacità) di una bella parte della classe politica&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La guerra ce la stiamo portando in casa. Con la complicità (o incapacità) di una bella parte della classe politica italiana, che non riesce a tutelare il benessere dei propri cittadini attraverso strategie lungimiranti. L’impressione, neppure troppo velata e confermata anche da figure politiche d’oltralpe, è che “<strong><em>Il conflitto in Ucraina non deve sfociare in una dominazione economica statunitense e in un indebolimento dell’UE</em></strong>” e, soprattutto, che “<em>non possiamo accettare che il nostro partner statunitense ci venda il suo GNL a un prezzo quatto volte quello al quale vende agli industriali americani</em>”. Sono parole del ministro francese dell’economia Le Maire, che ha anche aggiunto come “<em>i prezzi dell&#8217;energia fossile rimarranno alti, non si torna indietro quindi dobbiamo fare di più sull&#8217;efficienza energetica</em>&#8220;.</p>
+
+
+
+<p>Non c’era bisogno di scomodare un ministro per sottolineare quello che è ormai evidente: <strong>che sia a causa della guerra o della speculazione economica, il costo della vita sta lievitando molto velocemente, con stipendi al palo </strong>e una disuguaglianza di distribuzione del reddito superiore dalla media Europea<strong>.</strong> Ma ciò che è peggio, a nostro modesto parere di cittadini, è che <strong>la classe politica italiana non sembra capace di fornire una risposta né sul breve né sul medio periodo a una crisi sistemica</strong> che rischia di travolgere l’intero stato sociale.</p>
+
+
+
+<p>Anche <strong>il tema dell&#8217;efficienza energetica</strong>, di cui tanti politici hanno riempito la loro agenda elettorale, stenta a decollare. Arrivando con un ritardo enorme, la &#8220;<em>burocrazia difensiva</em>&#8221; su cui è basato gran parte del Paese &#8211;<em>leggasi: vincoli ambientali e paesaggistici spesso attuati in modo incoerente</em>&#8211; <strong>blocca la possibilità di diventare energeticamente indipendenti a migliaia di famiglie.</strong></p>
+
+
+
+<p>Che <strong>con l’altissimo costo dell’energia elettrica, da ottobre balzata ancora in avanti raggiungendo un prezzo di 0,55€ al kW</strong> sul mercato vincolato (fascia F1 tariffa bioraria) [1], dovranno fare i conti -insieme a milioni di altre famiglie italiane- a fare i conti con bollette l’elettricità e del gas salatissime e insostenibili.</p>
+
+
+
+<p>Nel mentre, gli “esperti” in TV si sperticano in consigli più o meno sensati per risparmiare elettricità, come se la responsabilità fosse dei “<em>cittadini spreconi</em>” che hanno “<em>vissuto al di sopra delle loro possibilità</em>”. <strong>Di chi è la responsabilità se l’energia elettrica è balzata, in pochi mesi, da 0,17€ al kW a 0,55€, in un Paese che ha &#8220;strategicamente&#8221; puntato al gas per la produzione dell&#8217;energia elettrica stessa? </strong>Dopo che, per decenni, la società ha sempre di più basato il suo funzionamento sull’energia elettrica, improvvisamente ci vengono a consigliare di “tenere aperta il meno possibile la porta del frigo”! Dopo che, negli ultimi anni, la spinta alla &#8220;transizione econologica&#8221; ha visto una diffusione di veicoli elettrici il cui funzionamento, ormai, è economicamente insostenibile e rischia di vanificare tutti i buoni propositi ecologisti.</p>
+
+
+
+<p>Noi ci sentiamo presi in giro.</p>
+
+
+
+<p>Se lo strumento principe per mantenere calmi gli animi dei cittadini è la paura, dopo due anni di pandemia e di “terrorismo mediatico” sempre a opera di “esperti” che, nel tempo, hanno cambiato posizione a seconda della convenienza del momento, crediamo che il recente risultato delle urne sia semplicemente la ricerca di una risposta politica da parte di una classe politica che, risposte, non riesce proprio a darne (e, per la precisione, crediamo che neppure la Destra sarà in grado di darle).</p>
+
+
+
+<p>Perché, alla fine, è di risposte e di una visione quello di cui abbiamo bisogno.&nbsp;</p>
+
+
+
+<p>Risposte concrete, non di ulteriori 700 milioni di euro di nostri soldi gentilmente prestati all’Ucraina per una guerra che, pian piano, rischia di arrivare nelle nostre strade. Solo che, se e quando arriverà, chi troveremo a salvarci?</p>
+
+
+
+<p><strong><em>Siena Pirata</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
