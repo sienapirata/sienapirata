@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>energia eletttrica &#8211; Siena Pirata</title>
+	<atom:link href="https://www.sienapirata.it/tag/energia-eletttrica/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.sienapirata.it/</link>
+	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
+	<lastBuildDate>Sat, 10 Feb 2024 13:01:20 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>COMUNICATO PIRATA &#8211; Mercato libero dell&#8217;energia e Portale delle Offerte…ma per chi?</title>
+		<link>https://www.sienapirata.it/2024/02/comunicato-pirata-mercato-libero-dellenergia-e-portale-delle-offertema-per-chi/</link>
+		
+		<dc:creator><![CDATA[sienapirata]]></dc:creator>
+		<pubDate>Sat, 10 Feb 2024 13:00:14 +0000</pubDate>
+				<category><![CDATA[Comunicati Pirata]]></category>
+		<category><![CDATA[arera]]></category>
+		<category><![CDATA[energia eletttrica]]></category>
+		<category><![CDATA[portale offerte]]></category>
+		<guid isPermaLink="false">https://www.sienapirata.it/?p=101</guid>
+
+					<description><![CDATA[In vista del passaggio forzato di migliaia di famiglie al mercato libero per l’energia elettrica che, per i clienti domestici&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>In vista del passaggio forzato di migliaia di famiglie al mercato libero per l’energia elettrica che, per i clienti domestici “non vulnerabili” avverrà a partire da luglio 2024[1], ci siamo interessati su quali sarebbero i reali vantaggi per noi cittadini.</p>
+
+
+
+<p>Abbiamo quindi visitato la pagina predisposta da Arera &#8211;<em>Autorità di Regolazione per Energia Reti e Ambiente</em>&#8211; per aiutare i cittadini a scegliere il fornitore più conveniente, “Il Portale delle Offerte”[2].</p>
+
+
+
+<p><strong>Simulando una situazione tipica di una famiglia senese di 3 persone</strong>, tariffa a fasce (la classica “bioraria”) e un impegno di 3kw, delle 600 “offerte” che ci sono state restituite NESSUNA DI QUESTE è più conveniente del c.d. mercato tutelato.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1092" height="760" src="https://www.sienapirata.it/wp-content/uploads/2024/02/image.png" alt="" class="wp-image-102" srcset="https://www.sienapirata.it/wp-content/uploads/2024/02/image.png 1092w, https://www.sienapirata.it/wp-content/uploads/2024/02/image-300x209.png 300w, https://www.sienapirata.it/wp-content/uploads/2024/02/image-1024x713.png 1024w, https://www.sienapirata.it/wp-content/uploads/2024/02/image-768x535.png 768w" sizes="(max-width: 1092px) 100vw, 1092px" /></figure>
+
+
+
+<p>Ci si chiede quindi, con un doveroso sarcasmo, a chi davvero convenga questo mercato libero. Sicuramente non ai cittadini, che si troveranno a dover pagare di più per il medesimo servizio essenziale: l’energia elettrica per la propria abitazione. Il tutto, tanto per dare un sapore beffardo al tutto, “certificato” da Arera.</p>
+
+
+
+<p>Ahoy!</p>
+
+
+
+<p><em>Siena Pirata</em></p>
+
+
+
+<p>[1] <a href="https://www.arera.it/per-il-consumatore/verso-la-fine-del-mercato-tutelato">https://www.arera.it/per-il-consumatore/verso-la-fine-del-mercato-tutelato</a><br>[2] <a href="http://www.ilportaleofferte.it/">www.ilportaleofferte.it</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
