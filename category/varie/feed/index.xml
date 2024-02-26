@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Varie &#8211; Siena Pirata</title>
+	<title>Varie Archivi - Siena Pirata</title>
 	<atom:link href="https://www.sienapirata.it/category/varie/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.sienapirata.it/</link>
+	<link>https://www.sienapirata.it/category/varie/</link>
 	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
 	<lastBuildDate>Sun, 14 Jan 2024 08:14:19 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -28,7 +28,9 @@
 				<category><![CDATA[Varie]]></category>
 		<guid isPermaLink="false">https://www.sienapirata.it/?p=22</guid>
 
-					<description><![CDATA[Siena non è una città abituata a fare i conti con la povertà. O, meglio, non lo era. Le notizie&#8230;]]></description>
+					<description><![CDATA[<p>Siena non è una città abituata a fare i conti con la povertà. O, meglio, non lo era. Le notizie&#8230;</p>
+<p>L'articolo <a href="https://www.sienapirata.it/2024/01/comunicato-pirata-senza-lilleri-un-si-lallera/">COMUNICATO PIRATA &#8211; Senza lilleri un si lallera!</a> proviene da <a href="https://www.sienapirata.it/">Siena Pirata</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Siena non è una città abituata a fare i conti con la povertà.</strong> O, meglio, non lo era. Le notizie che arrivano dalla Stampa cittadina, per ultimo il flop dei saldi di inizio anno e le preoccupazioni, comprensibili, dei commercianti fanno da eco alle proteste di molte categorie di lavoratori che hanno visto il loro salario, già tra i più bassi di tutta l’Europa, eroso ulteriormente a causa dell’inflazione.</p>
 
@@ -59,6 +61,7 @@
 
 
 <p><strong><em>Siena Pirata</em></strong></p>
+<p>L'articolo <a href="https://www.sienapirata.it/2024/01/comunicato-pirata-senza-lilleri-un-si-lallera/">COMUNICATO PIRATA &#8211; Senza lilleri un si lallera!</a> proviene da <a href="https://www.sienapirata.it/">Siena Pirata</a>.</p>
 ]]></content:encoded>
 					
 		

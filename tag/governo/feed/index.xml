@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>governo &#8211; Siena Pirata</title>
+	<title>governo Archivi - Siena Pirata</title>
 	<atom:link href="https://www.sienapirata.it/tag/governo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.sienapirata.it/</link>
+	<link>https://www.sienapirata.it/tag/governo/</link>
 	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
 	<lastBuildDate>Sun, 14 Jan 2024 08:07:24 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -31,7 +31,9 @@
 		<category><![CDATA[ministero]]></category>
 		<guid isPermaLink="false">https://www.sienapirata.it/?p=30</guid>
 
-					<description><![CDATA[Bonus, bonus, bonus! La “lotteria dei diritti” sembra non conoscere fine in questo Paese allo sbando, tra ristrettezze economiche e&#8230;]]></description>
+					<description><![CDATA[<p>Bonus, bonus, bonus! La “lotteria dei diritti” sembra non conoscere fine in questo Paese allo sbando, tra ristrettezze economiche e&#8230;</p>
+<p>L'articolo <a href="https://www.sienapirata.it/2023/10/comunicato-pirata-la-lotteria-dei-diritti/">COMUNICATO PIRATA -La lotteria dei diritti</a> proviene da <a href="https://www.sienapirata.it/">Siena Pirata</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Bonus, bonus, bonus! </strong>La “lotteria dei diritti” sembra non conoscere fine in questo Paese allo sbando, tra ristrettezze economiche e palesi incapacità governative ormai sotto gli occhi di tutti, almeno di chi vuole vedere.</p>
 
@@ -57,6 +59,7 @@
 
 
 <p><em><strong>Siena Pirata</strong></em></p>
+<p>L'articolo <a href="https://www.sienapirata.it/2023/10/comunicato-pirata-la-lotteria-dei-diritti/">COMUNICATO PIRATA -La lotteria dei diritti</a> proviene da <a href="https://www.sienapirata.it/">Siena Pirata</a>.</p>
 ]]></content:encoded>
 					
 		

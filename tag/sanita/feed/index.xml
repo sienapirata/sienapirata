@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>sanità &#8211; Siena Pirata</title>
+	<title>sanità Archivi - Siena Pirata</title>
 	<atom:link href="https://www.sienapirata.it/tag/sanita/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.sienapirata.it/</link>
+	<link>https://www.sienapirata.it/tag/sanita/</link>
 	<description>Un posto sicuro per i pirati senesi, a difesa dei diritti civili e digitali</description>
 	<lastBuildDate>Fri, 09 Feb 2024 12:44:13 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -34,7 +34,9 @@
 		<category><![CDATA[sanità]]></category>
 		<guid isPermaLink="false">https://www.sienapirata.it/?p=71</guid>
 
-					<description><![CDATA[Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie&#8230;]]></description>
+					<description><![CDATA[<p>Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie&#8230;</p>
+<p>L'articolo <a href="https://www.sienapirata.it/2024/02/comunicato-pirata-quando-la-sanita-non-riesce-a-proteggere-i-dati-personali-dei-cittadini/">COMUNICATO PIRATA &#8211; Quando la sanità non riesce a proteggere i dati personali dei cittadini</a> proviene da <a href="https://www.sienapirata.it/">Siena Pirata</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Sono dati allarmanti quelli che arrivano dagli esperti del settore in merito alle conseguenze degli attacchi cyber alle strutture sanitarie pubbliche italiane.</strong> Stando all’articolo pubblicato da Guerre di Rete[1], newsletter italiana in ambito sicurezza informatica, “<em>solo <strong>negli ultimi due mesi del 2023 sono stati diffusi oltre 1,5 terabyte di dati sanitari</strong> (circa due milioni di file) sottratti a diverse strutture del nostro Paese</em>”.</p>
 
@@ -77,6 +79,7 @@
 
 
 <p>[1] <a href="https://www.guerredirete.it/i-dati-sanitari-di-migliaia-di-italiani-sono-ormai-online/" target="_blank" rel="noreferrer noopener">https://www.guerredirete.it/i-dati-sanitari-di-migliaia-di-italiani-sono-ormai-online/</a></p>
+<p>L'articolo <a href="https://www.sienapirata.it/2024/02/comunicato-pirata-quando-la-sanita-non-riesce-a-proteggere-i-dati-personali-dei-cittadini/">COMUNICATO PIRATA &#8211; Quando la sanità non riesce a proteggere i dati personali dei cittadini</a> proviene da <a href="https://www.sienapirata.it/">Siena Pirata</a>.</p>
 ]]></content:encoded>
 					
 		
