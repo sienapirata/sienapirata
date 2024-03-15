@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2024-03-07T07:48:48+00:00</lastmod>
+		<lastmod>2024-03-15T09:58:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -96,6 +96,13 @@
 		<lastmod>2024-03-07T07:48:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/03/Costi-figli-1000x500-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/03/comunicato-pirata-la-direttiva-green-ci-piace-ma-chi-paga/</loc>
+		<lastmod>2024-03-15T09:58:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/03/casagreen.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
