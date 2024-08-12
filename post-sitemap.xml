@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2024-07-17T14:15:48+00:00</lastmod>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -124,6 +124,23 @@
 		<lastmod>2024-07-17T14:15:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/07/siena_quanto_mi_costi.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/07/comunicato-pirata-siena-la-piu-cara-delle-citta-una-coca-a-4-euro/</loc>
+		<lastmod>2024-07-31T11:54:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/07/dddd.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/07/Schermata-del-2024-07-31-13-48-02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/08/comunicato-pirata-ampugnano-soldi-pubblici-vantaggi-privati/</loc>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/08/ampugnano.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

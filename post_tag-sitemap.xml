@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/tag/aeroporto/</loc>
-		<lastmod>2024-01-14T08:05:56+00:00</lastmod>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/ampugnano/</loc>
-		<lastmod>2024-03-18T11:23:19+00:00</lastmod>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/arera/</loc>
@@ -15,6 +15,10 @@
 	<url>
 		<loc>https://www.sienapirata.it/tag/arezzo/</loc>
 		<lastmod>2024-01-14T07:56:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/birra/</loc>
+		<lastmod>2024-07-31T11:54:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/bolzano/</loc>
@@ -37,12 +41,20 @@
 		<lastmod>2024-02-23T13:32:25+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.sienapirata.it/tag/coca-cola/</loc>
+		<lastmod>2024-07-31T11:54:34+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.sienapirata.it/tag/commercio/</loc>
 		<lastmod>2024-03-18T11:23:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/costo/</loc>
-		<lastmod>2024-03-07T07:48:48+00:00</lastmod>
+		<lastmod>2024-07-31T11:54:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/costo-della-vita/</loc>
+		<lastmod>2024-07-31T11:54:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/cybersecurity/</loc>
@@ -67,6 +79,10 @@
 	<url>
 		<loc>https://www.sienapirata.it/tag/e-commerce-2/</loc>
 		<lastmod>2024-03-18T11:23:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/enac/</loc>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/energia-eletttrica/</loc>
@@ -178,7 +194,11 @@
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/siena/</loc>
-		<lastmod>2024-02-23T13:32:25+00:00</lastmod>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/sovicille/</loc>
+		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/stipendio/</loc>
