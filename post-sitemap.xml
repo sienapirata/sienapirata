@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
+		<lastmod>2024-08-26T11:45:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -141,6 +141,20 @@
 		<lastmod>2024-08-12T08:50:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/08/ampugnano.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/08/comunicato-pirata-solidarieta-al-personale-ssn-aggredito/</loc>
+		<lastmod>2024-08-26T11:45:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/08/10e2a7bf-3035-6280-428a-ffa2447107fa.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/08/comunicato-pirata-caro-libri-scolastici-la-soluzione-ci-sarebbe/</loc>
+		<lastmod>2024-08-26T11:45:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/08/caro-libri-mercatini-libro-usato-295289552.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
