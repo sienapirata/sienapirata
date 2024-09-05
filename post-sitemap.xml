@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2024-09-02T12:01:55+00:00</lastmod>
+		<lastmod>2024-09-05T11:41:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -162,6 +162,13 @@
 		<lastmod>2024-09-02T12:01:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/09/opcarolibri.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/09/comunicato-pirata-oh-no-lesselunga-e-100-posti-di-lavoro-in-bilico/</loc>
+		<lastmod>2024-09-05T11:41:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/09/c1bc7128-cf3e-1024-04e3-f12fcd8a2a9d.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
