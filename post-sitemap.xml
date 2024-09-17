@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2024-09-10T06:57:45+00:00</lastmod>
+		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -176,6 +176,20 @@
 		<lastmod>2024-09-10T06:57:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/09/costoso.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/09/comunicato-pirata-scusateci-ma-le-elezioni-provinciali-ci-entusiasmano-poco-inviata/</loc>
+		<lastmod>2024-09-17T07:21:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/09/8c7ead13-7539-b4dc-da90-696ffcf46cb7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/09/comunicato-pirata-opcarolibri-le-scuole-non-rispondono-lagcm-apre-una-istruttoria-in-merito-inviata/</loc>
+		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/09/opcarolibri.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

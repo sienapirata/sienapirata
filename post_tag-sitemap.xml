@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.sienapirata.it/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.sienapirata.it/tag/opcarolibri-2/</loc>
+		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.sienapirata.it/tag/abuso-edilizio/</loc>
 		<lastmod>2024-09-05T11:41:50+00:00</lastmod>
 	</url>
@@ -77,6 +81,10 @@
 		<lastmod>2024-01-19T07:07:49+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.sienapirata.it/tag/delrio/</loc>
+		<lastmod>2024-09-17T07:21:56+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.sienapirata.it/tag/direttiva/</loc>
 		<lastmod>2024-03-15T09:58:35+00:00</lastmod>
 	</url>
@@ -87,6 +95,14 @@
 	<url>
 		<loc>https://www.sienapirata.it/tag/e-commerce-2/</loc>
 		<lastmod>2024-03-18T11:23:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/editoria-scolastica/</loc>
+		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/elezioni/</loc>
+		<lastmod>2024-09-17T07:21:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/enac/</loc>
@@ -135,6 +151,10 @@
 	<url>
 		<loc>https://www.sienapirata.it/tag/lavoro/</loc>
 		<lastmod>2024-09-05T11:41:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/tag/libri/</loc>
+		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/libri-di-testo/</loc>
@@ -205,6 +225,10 @@
 		<lastmod>2024-02-09T12:44:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.sienapirata.it/tag/provincia/</loc>
+		<lastmod>2024-09-17T07:21:56+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.sienapirata.it/tag/retribuzioni/</loc>
 		<lastmod>2024-09-10T06:57:45+00:00</lastmod>
 	</url>
@@ -222,7 +246,7 @@
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/scuola/</loc>
-		<lastmod>2024-09-02T12:01:55+00:00</lastmod>
+		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/tag/senese-arrabbiatello/</loc>
