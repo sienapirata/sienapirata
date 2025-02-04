@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
+		<lastmod>2025-02-04T09:06:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -190,6 +190,97 @@
 		<lastmod>2024-09-17T07:22:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2024/09/opcarolibri.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/09/comunicato-pirata-bene-parlare-di-rifiuti-ma/</loc>
+		<lastmod>2025-02-04T08:52:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/41f5b7f7-3286-7122-3622-323ea82cfb6d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/09/comunicato-pirata-lacqua-borra-simbolo-del-fallimento-politico-locale/</loc>
+		<lastmod>2025-02-04T08:52:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/a3d7ef6f-e793-8f4e-6560-b2949d455c7d.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/10/comunicato-pirata-ha-senso-scegliere-di-vivere-a-siena/</loc>
+		<lastmod>2025-02-04T08:54:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/43240ad4-f924-58e3-a004-07614bea721a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/10/comunicato-pirata-a-siena-scuole-chiuse-ma-il-resto/</loc>
+		<lastmod>2025-02-04T08:55:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/6d08c90c-446c-574a-926f-5bcb52a4ed8b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/10/comunicato-pirata-pioggia-e-danni-non-possiamo-piu-far-finta-di-niente/</loc>
+		<lastmod>2025-02-04T08:56:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/a4c81494-7c72-9772-bc33-e02c36a5d3b6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/11/comunicato-pirata-ma-che-li-catturiamo-a-fare/</loc>
+		<lastmod>2025-02-04T08:57:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/2310dda6-cbe2-2037-9f3e-aab78a6a0e0a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/11/comunicato-pirata-buy-now/</loc>
+		<lastmod>2025-02-04T08:58:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/3a7d8965-7ae4-e22c-73cb-5e96664e93ac.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/12/comunicato-pirata-la-signora-delia/</loc>
+		<lastmod>2025-02-04T09:00:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/ee6e165b-1de9-11fe-851e-8fd7be6b5d07.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/01/comunicato-pirata-punire-gli-affitti-brevi-non-risolvera-il-problema/</loc>
+		<lastmod>2025-02-04T09:02:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/f05ee0a0-35c5-8bd5-c2bc-c2d2ff5d5004.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/01/comunicato-pirata-lo-smart-working-una-soluzione-contro-il-caro-auto/</loc>
+		<lastmod>2025-02-04T09:03:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/338f5398-5e7e-bd87-2c83-49c0974dcb80.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2024/12/comunicato-pirata-piu-buoni-o-piu/</loc>
+		<lastmod>2025-02-04T09:04:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/2310dda6-cbe2-2037-9f3e-aab78a6a0e0a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/01/comunicato-pirata-min-crosetto-accettiamo-la-sua-offerta/</loc>
+		<lastmod>2025-02-04T09:05:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/2cf912ae-bce0-f644-6f46-0de8eb001c2a.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/02/comunicato-pirata-terremoto/</loc>
+		<lastmod>2025-02-04T09:06:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/776ebfa7-d351-cc9c-2196-d38551cca141.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
