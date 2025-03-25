@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.sienapirata.it/</loc>
-		<lastmod>2025-02-04T09:06:25+00:00</lastmod>
+		<lastmod>2025-03-25T13:36:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sienapirata.it/2023/12/comunicato-pirata-arezzo-verso-il-milione-siena-polemizza-per-le-luci/</loc>
@@ -281,6 +281,41 @@
 		<lastmod>2025-02-04T09:06:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/02/776ebfa7-d351-cc9c-2196-d38551cca141.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/02/comunicato-pirata-non-e-un-problema-di-costo-ma-di-retribuzione/</loc>
+		<lastmod>2025-03-25T13:29:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/03/a5a66eef-9ee1-f1e5-dc64-66d43084d065.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/02/comunicato-pirata-beko-e-gli-sciacalli-della-politica/</loc>
+		<lastmod>2025-03-25T13:31:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/03/a5e68829-cc1f-13fa-f954-153bac1d6c2c.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/03/comunicato-pirata-futuro-senzauto/</loc>
+		<lastmod>2025-03-25T13:33:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/03/4c4a563f-a121-e907-7f86-50a78ea2071c.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/03/comunicato-pirata-care-fresche-e-dolci-acque/</loc>
+		<lastmod>2025-03-25T13:34:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/03/900d7516-ea8d-756a-723a-be0ff6cc7f0e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.sienapirata.it/2025/03/comunicato-pirata-facite-ammuina/</loc>
+		<lastmod>2025-03-25T13:36:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.sienapirata.it/wp-content/uploads/2025/03/18574eaa-dffa-aaaa-6972-b88bb520f1fd.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
